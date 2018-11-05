@@ -1,26 +1,9 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
 # youtube-with-react
+
+Re-creating simple youtube model with React.
+
+Built using ReduxSimpleStarter boiler plate : https://github.com/StephenGrider/ReduxSimpleStarter
+
+Created during Stephen Grider's Modern React and Redux course : https://www.udemy.com/react-redux/
+
+
